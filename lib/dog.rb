@@ -1,2 +1,6 @@
 
-puts const 'fido, snoopy,lassieit'do
+
+puts describe 'Dog' do
+  it 'fido, snoopy,lassieit'do
+end
+end
